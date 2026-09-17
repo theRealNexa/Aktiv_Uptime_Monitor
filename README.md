@@ -1,4 +1,4 @@
-# Uptime Monitor
+# Aktiv - Uptime Monitor
 
 A lightweight Python service that monitors the uptime of deployed web apps and sends real-time Telegram alerts when something goes down — or comes back up.
 
