@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Local database (don't commit your own check history)
+monitor.db
+
+# Secrets - never commit real tokens/IDs
+secrets.py
+
+# Python cache
+__pycache__/
+*.pyc
